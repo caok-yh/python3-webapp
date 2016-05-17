@@ -1,3 +1,5 @@
+## 基本操作
+
 ### 创建git库
 
 ```markdown
@@ -28,6 +30,12 @@ $ git status
 
 ```
 $ git diff
+```
+
+查看暂存区与仓库的差异
+
+```
+git diff --cached
 ```
 
 ### 查看历史记录
