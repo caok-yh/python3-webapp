@@ -54,7 +54,7 @@ git diff HEAD -- filename
 $ git log
 ```
 
-增强型查看
+增强型查看，需重命名`lg`.
 
 ```
 $ git lg
