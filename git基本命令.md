@@ -38,6 +38,12 @@ $ git diff
 git diff --cached
 ```
 
+查看工作区域仓库的差异
+
+```
+git diff HEAD -- filename
+```
+
 ### 查看历史记录
 
 ```
